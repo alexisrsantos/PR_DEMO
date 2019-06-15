@@ -18,7 +18,7 @@ Here we provide the code for: **A demographic profile of the areas differentiall
 The R code included in this repository allows you to access all the data used in this analysis.
 
 # Correspondence
-If you run into any problems using our R code, please [create an issue](https://github.com/alexisrsantos/PuertoRico_DEMO_VulnerabilityRisk/issues).
+If you run into any problems using our R code, please [create an issue](https://github.com/alexisrsantos/PR_DEMO/issues).
 
 ## Metadata
 This repository was created, and is maintained, by Dr. Alexis R. Santos (Pennsylvania State University) and is accessible to those interested in reproducing our analysis.
