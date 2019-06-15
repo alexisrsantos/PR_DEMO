@@ -12,7 +12,7 @@ Here we provide the code for: **A demographic profile of the areas differentiall
 
 # Use
 - Feel free to create a new branch for further incorporation and analysis. 
-- Please properly cite all use of the underlying code or data. 
+- Please properly cite all use of the underlying code or data. (and let us know!)
 
 # Data
 The R code included in this repository allows you to access all the data used in this analysis.
