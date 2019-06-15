@@ -7,7 +7,7 @@ Here we provide the code for: **A demographic profile of the areas differentiall
 
 # Organization
 - `Code`  — An R code used to reproduce all the results presented in this article.
-- `R` - Is an open-source software available to .
+- `R` - Is an open-source software available to [here](https://www.r-project.org/). We used [RStudio](https://www.rstudio.com/) for our analysis. 
 - `Census API`  — The way of accessing the Puerto Rico Community Survey through R. More information is available [here](https://www.census.gov/data/developers/data-sets.html).
 
 # Use
