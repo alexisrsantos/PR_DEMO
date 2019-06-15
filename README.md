@@ -1,9 +1,9 @@
 # Introduction 
 Here we provide the code for: **A demographic profile of the areas differentially impacted by Hurricane Maria in Puerto Rico**
 
-## Citation: 
+## Preprint Citation: 
 
-> **De Jesús, Wilmarie; Mercedes-Guervarez, Alfonso; Galán-Rivera, Chrystal; Rodríguez-Ortiz; Luis A.; Medina-De Jesús, Leidymee; Lugo-Estrada, Rady; León-López, Luz E., and Santos-Lozada, Alexis R.** (Year Accesed) *A demographic profile of the areas differentially impacted by Hurricane Maria in Puerto Rico.* 
+> De Jesús, Wilmarie; Mercedes-Guervarez, Alfonso; Galán-Rivera, Chrystal; Rodríguez-Ortiz; Luis A.; Medina-De Jesús, Leidymee; Lugo-Estrada, Rady; León-López, Luz E., and Santos-Lozada, Alexis R. (2019) *A demographic profile of the areas differentially impacted by Hurricane Maria in Puerto Rico.* SocArxiv. DOI:______________________. 
 
 # Organization
 - `Code`  — An R code used to reproduce all the results presented in this article.
