@@ -22,3 +22,6 @@ If you run into any problems using our R code, please [create an issue](https://
 
 ## Metadata
 This repository was created, and is maintained, by Dr. Alexis R. Santos (Pennsylvania State University) and is accessible to those interested in reproducing our analysis.
+
+## License
+The data collected and presented is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying code used to format, analyze and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
